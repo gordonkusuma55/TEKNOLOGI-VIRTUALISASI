@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerEnvironment>path=%path%;C:\Program Files (x86)\VMware\VMware VIX\Workstation-15.0.0\32bit
+$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>E:\Tugas\kuliah\VM\Centos2\Centos2.vmx</LocalDebuggerCommandArguments>
+  </PropertyGroup>
+</Project>
